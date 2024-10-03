@@ -1,0 +1,12 @@
+
+.bg1 .h-color{
+    font-size:80px;font-family: 'Times New Roman', Times, serif;
+    
+}
+.bg1 {
+    font-size: 15px;font-family: 'Times New Roman', Times, serif;background: url(../farming.jpg) no-repeat;background-attachment: fixed;background-size: cover;padding: 300px;margin: 20px;
+}
+.con{
+    font-size: 20px;background-color: aquamarine;
+    border: 20px;
+}

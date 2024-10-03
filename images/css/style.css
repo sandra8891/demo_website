@@ -4,9 +4,13 @@
     
 }
 .bg1 {
-    font-size: 15px;font-family: 'Times New Roman', Times, serif;background: url(../farming.jpg) no-repeat;background-attachment: fixed;background-size: cover;padding: 300px;margin: 20px;
+    font-size: 15px;font-family: 'Times New Roman', Times, serif;background: url(../farming.jpg) no-repeat;background-attachment: fixed;background-size: cover;padding: 300px;margin: 20px; background-position:top center;
 }
-.con{
-    font-size: 20px;background-color: aquamarine;
-    border: 20px;
+    
+.bor{
+    border-width: 2px;
+    border-color: green;
+    border-style: solid;
+    background-color: green;
+    font-size: 18px;
 }

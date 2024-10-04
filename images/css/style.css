@@ -14,3 +14,27 @@
     background-color: green;
     font-size: 18px;
 }
+.img{
+    margin: 60px 350px;
+    
+}
+ .icon{
+    position: absolute;
+  left: 400px;
+  width: 200px;
+  height: 100px;
+}
+.icon2{
+    position: absolute;
+    left: 600px;
+  width: 200px;
+  height: 100px;
+}
+.icon3{
+    position: absolute;
+    left: 800px;
+  width: 200px;
+  height: 100px;
+
+    
+}

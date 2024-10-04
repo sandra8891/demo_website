@@ -19,22 +19,35 @@
     
 }
  .icon{
-    position: absolute;
+    position:absolute;
   left: 400px;
   width: 200px;
   height: 100px;
 }
 .icon2{
-    position: absolute;
+    position:absolute;
     left: 600px;
   width: 200px;
   height: 100px;
 }
 .icon3{
-    position: absolute;
+    position:absolute;
     left: 800px;
   width: 200px;
   height: 100px;
 
     
+}
+.ic{
+  padding-top: 150px;
+  padding-left: 250px;
+}
+.ico{
+  padding-left: 220px;
+}
+.p{
+  float: right;
+  width:200px;
+  height: 200px;
+  margin-left: 400px;
 }

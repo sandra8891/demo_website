@@ -1,0 +1,12 @@
+.master{
+    height: 10vh;
+    display:grid;
+    grid-template-columns:1fr 1fr;
+}
+
+.main{
+    background-color: rosybrown;
+    border:4px rgb(175, 60, 98) solid;
+    margin-top: 10px;
+
+}

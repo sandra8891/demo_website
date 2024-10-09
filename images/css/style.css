@@ -50,11 +50,19 @@
 /*.bgdiv{  border: solid; width:70%;}
 .bgdiv1{  border: solid; width:28%;}*/
 
-.flex-container2{
+.flex{
   display:flex;
-  
+  flex-direction: row;
 
 }
 .about{
-  padding-left: 60px;
+  padding-left: 150px;
+  width: 50%;
 }
+.about2{
+  width:28%;
+  padding-right: 250px;
+
+  
+}
+

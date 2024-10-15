@@ -62,7 +62,9 @@
 .about2{
   width:28%;
   padding-right: 250px;
-
-  
 }
 
+.p1{
+  border: solid white;
+  border-radius: 100px;
+}
